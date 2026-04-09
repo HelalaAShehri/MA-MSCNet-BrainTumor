@@ -29,28 +29,6 @@ This repository focuses on **model inference and explainability**, enabling user
 
 ---
 
-##  Repository Structure
-MA-MSCNet-BrainTumor/
-
-├── colab/
-│   └── MA-MSCNet_Demo.ipynb
-├── sample_images/
-│   ├── glioma_01.jpg
-│   ├── glioma_02.jpg
-│   ├── meningioma_01.jpg
-│   ├── meningioma_02.jpg
-│   ├── notumor_01.jpg
-│   ├── notumor_02.jpg
-│   ├── pituitary_01.jpg
-│   └── pituitary_02.jpg
-├── figures/
-│   ├── gradcam_example.png
-│   └── feature_maps_example.png
-├── requirements.txt
-├── LICENSE
-└── README.md
----
-
 ## Quick Start
 
 The easiest way to run the demo is via Google Colab:
