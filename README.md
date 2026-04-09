@@ -82,4 +82,4 @@ The model produces both predictions and visual explanations:
 - Grad-CAM heatmap highlighting important regions  
 
 ```markdown
-![Grad-CAM Example](figures/gradcam_example.png)
+![Grad-CAM Example](figures/gradcam__example.png)
